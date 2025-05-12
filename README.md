@@ -1,7 +1,7 @@
 # Dibimbing_DataScience
 
 🚢 Exploratory Data Analysis: Estonia Passenger List  
-Halo, perkenalkan saya Naufal Raif Al-Zaky, peserta program Faculty of Data - Digital Skill Fair 39 yang diselenggarakan oleh @dibimbing.id.
+Halo, perkenalkan saya Naufal Raif Al-Zaky, peserta program Bootcamp Data Science Faculty of Data - Digital Skill Fair 39 yang diselenggarakan oleh @dibimbing.id.
 
 Sebagai bagian dari proyek pembelajaran, saya melakukan EDA (Exploratory Data Analysis) terhadap dataset Estonia Passenger List, yang berisi data penumpang kapal Estonia berdasarkan informasi usia, jenis kelamin, kewarganegaraan, dan status keselamatan.
 
